@@ -171,6 +171,9 @@ img.large {
   margin: 0.1rem;
 }
 /* Alert */
+.loading {
+  display: block !important;
+}
 .success {
   color: limegreen;
 }
@@ -216,11 +219,23 @@ img.large {
   min-width: 12rem;
   padding: 1rem;
   z-index: 1;
-  background-color: #203040;
+  background-color: #000000;
   margin: 0;
   margin-top: 0.4rem;
   border-radius: 0.5rem;
 }
 .dropdown:hover .dropdown-content {
   display: block;
+}
+/* Checkout Steps */
+.checkout-steps > div {
+  border-top: 0.3rem #c0c0c0 solid;
+  color: #c0c0c0;
+  flex: 1;
+  padding: 1rem;
+  font-weight: bold;
+}
+.checkout-steps > div.active {
+  border-top-color: steelblue;
+  color: steelblue;
 }
