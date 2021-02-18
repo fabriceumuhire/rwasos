@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rwasos/static/css/main.ba1fc24e.chunk.css",
+    "main.js": "/rwasos/static/js/main.95b579c6.chunk.js",
+    "main.js.map": "/rwasos/static/js/main.95b579c6.chunk.js.map",
+    "runtime-main.js": "/rwasos/static/js/runtime-main.38a98e11.js",
+    "runtime-main.js.map": "/rwasos/static/js/runtime-main.38a98e11.js.map",
+    "static/js/2.906c87b3.chunk.js": "/rwasos/static/js/2.906c87b3.chunk.js",
+    "static/js/2.906c87b3.chunk.js.map": "/rwasos/static/js/2.906c87b3.chunk.js.map",
+    "static/js/3.e27745ab.chunk.js": "/rwasos/static/js/3.e27745ab.chunk.js",
+    "static/js/3.e27745ab.chunk.js.map": "/rwasos/static/js/3.e27745ab.chunk.js.map",
+    "index.html": "/rwasos/index.html",
+    "static/css/main.ba1fc24e.chunk.css.map": "/rwasos/static/css/main.ba1fc24e.chunk.css.map",
+    "static/js/2.906c87b3.chunk.js.LICENSE.txt": "/rwasos/static/js/2.906c87b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38a98e11.js",
+    "static/js/2.906c87b3.chunk.js",
+    "static/css/main.ba1fc24e.chunk.css",
+    "static/js/main.95b579c6.chunk.js"
+  ]
+}
